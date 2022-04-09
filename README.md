@@ -3,33 +3,27 @@
 
 [![Linkedin: amargopastor](https://img.shields.io/badge/-amargopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amargopastor/)](https://www.linkedin.com/in/amargopastor/)
 [![Gmail Badge](https://img.shields.io/badge/-amargopastor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amargopastor@gmail.com)](mailto:amargopastor@gmail.com)
+[![code-along](https://img.shields.io/badge/-%F0%9F%90%99%20code--along-blue)](https://github.com/amargopastor-code-along)
 [![CORE Code School](https://img.shields.io/badge/-%F0%9F%8D%8A%20CORE%20Code%20School-orange)](https://www.corecode.school/)
 [![GitHub: amargopastor](https://img.shields.io/github/followers/amargopastor?label=follow&style=social)](https://github.com/amargopastor)
 
 ```ts
 import { hard_work } from Life;
 import { eager_to_learn } from Curiosity;
-import { working_projects, project_type, what_are_we_going_to_do_today, } from './projects';
+import { working_projects_list, choose_what_to_do_function } from './projects';
 
 export class MySelf {
-  current_job_title: string;
-  currently_working_on: string;
-  open_for_opportunity: boolean;
-  personal_email: string;
-  working_projects: Array<project_type>;
-
   constructor() {
     // PERSONAL INFO:
     this.current_job_title = 'Cloud Native Web Development Lead Teacher';
     this.currently_working_on = 'CORE Code School';
     this.open_for_opportunity = true;
     this.personal_email = 'amargopastor@gmail.com';
-    this.working_projects = working_projects;
   }
 
-  working_on(coffee: boolean = true, time: boolean = true) {
+  working_on(coffee: boolean, time: boolean) {
     if (coffee && time) {
-      return what_are_we_going_to_do_today(this.working_projects);
+      return choose_what_to_do_function(working_projects_list);
     }
     return false;
   }
@@ -39,6 +33,8 @@ export class MySelf {
   }
 }
 ```
+
+<h2> i can handle myself with</h2>
 
 <p>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
