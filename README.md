@@ -4,7 +4,6 @@
 [![Linkedin: amargopastor](https://img.shields.io/badge/-amargopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amargopastor/)](https://www.linkedin.com/in/amargopastor/)
 [![Gmail Badge](https://img.shields.io/badge/-amargopastor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amargopastor@gmail.com)](mailto:amargopastor@gmail.com)
 [![code-along](https://img.shields.io/badge/-%F0%9F%90%99%20code--along-blue)](https://github.com/amargopastor-code-along)
-[![CORE Code School](https://img.shields.io/badge/-%F0%9F%8D%8A%20CORE%20Code%20School-orange)](https://www.corecode.school/)
 [![GitHub: amargopastor](https://img.shields.io/github/followers/amargopastor?label=follow&style=social)](https://github.com/amargopastor)
 
 ```ts
@@ -15,8 +14,7 @@ import { working_projects_list, choose_what_to_do_function } from './projects';
 export class MySelf {
   constructor() {
     // PERSONAL INFO:
-    this.current_job_title = 'Cloud Native Web Development Lead Teacher';
-    this.currently_working_on = 'CORE Code School';
+    this.current_job_title = 'Fullstack developer';
     this.open_for_opportunity = true;
     this.personal_email = 'amargopastor@gmail.com';
   }
