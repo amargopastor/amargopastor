@@ -1,5 +1,5 @@
 <!-- Language and tools badge-->
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 [![Linkedin: amargopastor](https://img.shields.io/badge/-amargopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amargopastor/)](https://www.linkedin.com/in/amargopastor/)
 [![Gmail Badge](https://img.shields.io/badge/-amargopastor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amargopastor@gmail.com)](mailto:amargopastor@gmail.com)
