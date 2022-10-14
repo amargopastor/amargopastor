@@ -3,7 +3,7 @@
 
 [![Linkedin: amargopastor](https://img.shields.io/badge/-amargopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amargopastor/)](https://www.linkedin.com/in/amargopastor/)
 [![Gmail Badge](https://img.shields.io/badge/-amargopastor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amargopastor@gmail.com)](mailto:amargopastor@gmail.com)
-[![codealong](https://img.shields.io/badge/-%F0%9F%90%99%20codealong-blue)](https://github.com/amargopastor-code-along)
+[![codealong](https://img.shields.io/badge/-%F0%9F%90%99%20codealong-blue)](https://github.com/amargopastor-codealong)
 [![GitHub: amargopastor](https://img.shields.io/github/followers/amargopastor?label=follow&style=social)](https://github.com/amargopastor)
 
 ```ts
