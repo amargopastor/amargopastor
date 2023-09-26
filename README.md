@@ -7,29 +7,7 @@
 [![GitHub: amargopastor](https://img.shields.io/github/followers/amargopastor?label=follow&style=social)](https://github.com/amargopastor)
 
 ```ts
-import { hard_work } from Life;
-import { eager_to_learn } from Curiosity;
-import { working_projects_list, choose_what_to_do_function } from './projects';
-
-export class MySelf {
-  constructor() {
-    // PERSONAL INFO:
-    this.current_job_title = 'Fullstack developer';
-    this.open_for_opportunity = true;
-    this.personal_email = 'amargopastor@gmail.com';
-  }
-
-  working_on(coffee: boolean, time: boolean) {
-    if (coffee && time) {
-      return choose_what_to_do_function(working_projects_list);
-    }
-    return false;
-  }
-
-  contactMe() {
-    mailTo(this.personal_email);
-  }
-}
+console.log('Full Stack developer 🤖')
 ```
 
 <h2> i can handle myself with</h2>
