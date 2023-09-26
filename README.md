@@ -10,7 +10,7 @@
 console.log('Full Stack developer 🤖')
 ```
 
-<h2> i can handle myself with</h2>
+<h2> I can handle myself with</h2>
 
 <p>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
